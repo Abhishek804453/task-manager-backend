@@ -30,7 +30,7 @@ task-manager-backend/
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone : https://github.com/Abhishek804453/task-manager-backend
 cd task-manager-backend
 
 npm install
